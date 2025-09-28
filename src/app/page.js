@@ -5,8 +5,8 @@ import Image from "next/image";
 
 const images = [
   "/images/category-box.jpg",
-  "/images/banner1.webp",
-  "/images/banner2.webp",
+  "/images/Banner-two.jpg",
+  "/images/Banner-five.jpg",
 ];
 
 export default function BannerSlider() {
@@ -296,7 +296,7 @@ export default function BannerSlider() {
 
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-          style={{ backgroundImage: "url('/images/banner.webp')", backgroundAttachment: "fixed" }}
+          style={{ backgroundImage: "url('/images/Nature-three.jpg')", backgroundAttachment: "fixed" }}
         ></div>
 
         <div className="absolute inset-0 bg-black/70"></div>
