@@ -46,7 +46,7 @@ export default function BannerSlider() {
             Welcome to Our Website
           </h1>
           <p className="text-lg md:text-xl text-white mb-6 max-w-3xl 2xl:max-w-[1200px]">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis, justo nec porta ultricies, tortor nunc feugiat ligula, eget varius nibh libero id nunc. Curabitur tincidunt, augue sit amet feugiat tincidunt, mi elit volutpat urna
+            Demo Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis, justo nec porta ultricies, tortor nunc feugiat ligula, eget varius nibh libero id nunc. Curabitur tincidunt, augue sit amet feugiat tincidunt, mi elit volutpat urna
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <Link href="/gallery" className="px-6 py-3 bg-primary 2xl:text-[20px] text-white font-semibold rounded-lg border border-transparent hover:bg-transparent hover:border-white transition">
@@ -63,7 +63,7 @@ export default function BannerSlider() {
       <section className="w-full py-8 md:py-16 bg-white">
         <div className="container mx-auto text-center font-semibold text-black">
           <h2 className="text-3xl md:text-4xl pb-[20px] md:pb-[48px] font-bold text-gray-800 relative after:content-[''] after:block after:w-[100px] md:after:w-[200px] after:bg-primary after:mx-auto after:mt-2 md:after:mt-4 after:h-[3px]">
-            About Us Section
+            About Us Section 
           </h2>
         </div>
 
