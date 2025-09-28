@@ -7,10 +7,10 @@ export default function GalleryPage() {
   const galleryItems = [
     { id: 1, src: "/images/Nature-one.jpg" },
     { id: 2, src: "/images/Nature-two.jpg" },
-    { id: 3, src: "/images/Nature-three.jpg" },
+    { id: 3, src: "/images/Nature-one.jpg" },
     { id: 4, src: "/images/Nature-four.jpg" },
     { id: 5, src: "/images/Nature-five.jpg" },
-    { id: 6, src: "/images/Nature-six.jpg" },
+    { id: 6, src: "/images/Nature-two.jpg" },
   ];
   return (
     <>
