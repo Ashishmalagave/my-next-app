@@ -82,9 +82,9 @@ export default function AboutPage() {
               eget varius nibh libero id nunc. Curabitur tincidunt, augue sit amet
               feugiat tincidunt, mi elit volutpat urna
             </p>
-            <button className="px-6 py-3 bg-primary text-white text-lg 2xl:text-[20px] font-medium rounded-lg border hover:bg-transparent hover:text-primary hover:border-primary transition">
+            <Link href="/" className="px-6 py-3 bg-primary text-white text-lg 2xl:text-[20px] font-medium rounded-lg border hover:bg-transparent hover:text-primary hover:border-primary transition">
               Read More
-            </button>
+            </Link>
           </div>
         </div>
       </section>
